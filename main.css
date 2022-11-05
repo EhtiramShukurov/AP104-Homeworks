@@ -1,0 +1,30 @@
+.all-texts{
+    width: 960px;
+    height: 653px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.text-1{
+    text-align: justify;
+
+    width: 45.5%;
+}
+.text-2{
+    margin-left: 20px;
+    text-align: justify;
+    width: 45.5%;
+}
+.text-3{
+    text-align: justify;
+
+    width: 45.5%;
+}
+.text-4{
+    margin-left: 20px;
+
+    text-align: justify;
+
+    width: 45.5%;
+}
